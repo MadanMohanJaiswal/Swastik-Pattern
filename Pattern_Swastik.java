@@ -2,8 +2,6 @@
 public class Pattern_Swastik {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//java.util.Scanner sc=new java.util.Scanner(System.in);
 		int n=9;
 		int mid=(n+1)/2;
 		for(int i=1 ; i<=n ; i++) {
